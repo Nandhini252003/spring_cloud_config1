@@ -1,6 +1,5 @@
 spring:
-  application:
-    name: emp-service
+  application: emp-service
   jpa:
     show-sql: true
     hibernate: 
